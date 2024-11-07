@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(243, 155, 155);
+}
+
+#frm {
+    background-color: beige;
+    height: 450px;
+    width: 350px;
+    margin-left: 36%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 2%;
+    font-weight: 500;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#ctn {
+    text-align: center;
+}
+
+.siz {
+    width: 330px;
+    border: none;
+    height: 25px;
+    border-radius: 5px;
+}
+
+#btn {
+    margin-left: 40%;
+    background-color: rgba(41, 116, 41, 0.664);
+    border: none;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    color: white;
+}
+
+.t-siz {
+    width: 330px;
+    border: none;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.sdw {
+    filter: drop-shadow(3px 3px 3px rgb(172, 172, 243));
+}
+
+
+
+
+
